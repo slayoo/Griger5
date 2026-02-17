@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### About me
 - 🎓 Applied Computer Science student at AGH University of Science and Technology.
 - 💻 C++ Backend Developer @ [digatus](https://digatus.com/en/)
