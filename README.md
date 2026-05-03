@@ -1,5 +1,6 @@
 ### About me
 - 🎓 Applied Computer Science student at AGH University of Science and Technology.
+- 💡 Upcoming [CERN](https://home.cern/) Summer Student in 2026
 - 💻 C++ Backend Developer @ [digatus](https://digatus.com/en/)
 - 💡 Former Summer Intern @ [Paul Scherrer Institute](https://www.psi.ch/en)
 - 👨‍🏫 President of [KERNEL Computer Science Student Group](https://www.facebook.com/KNIKernel/)
